@@ -1,5 +1,4 @@
 # Aws-project-amplify-app
-Certainly! Below is an example description for a React.js app that you have hosted on AWS Amplify:
 
 # React.js Tic Tac Toe Game on AWS Amplify
 
